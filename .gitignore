@@ -1,0 +1,10 @@
+node_modules
+.env
+.secret
+.matic-vigil-key
+.DS_Store
+data
+
+#Hardhat files
+cache
+artifacts
